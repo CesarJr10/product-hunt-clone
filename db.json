@@ -1,0 +1,428 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "avatar": "https://via.placeholder.com/150/0000FF/808080?text=John",
+      "bio": "Tech enthusiast and early adopter",
+      "joinedAt": "2023-01-15"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "avatar": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Jane",
+      "bio": "Product manager with a passion for UX",
+      "joinedAt": "2023-03-22"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "avatar": "https://via.placeholder.com/150/FFFF00/000000?text=Alice",
+      "bio": "Startup founder and innovator",
+      "joinedAt": "2022-11-30"
+    },
+    {
+      "id": "4",
+      "name": "Bob Lee",
+      "email": "bob@example.com",
+      "avatar": "https://via.placeholder.com/150/00FF00/000000?text=Bob",
+      "bio": "Full-stack developer and open-source contributor",
+      "joinedAt": "2023-04-12"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Kim",
+      "email": "charlie@example.com",
+      "avatar": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Charlie",
+      "bio": "Marketing guru with a knack for data",
+      "joinedAt": "2023-05-07"
+    },
+    {
+      "id": "6",
+      "name": "Diana Prince",
+      "email": "diana@example.com",
+      "avatar": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Diana",
+      "bio": "UX designer focusing on accessibility",
+      "joinedAt": "2023-06-14"
+    },
+    {
+      "id": "7",
+      "name": "Edward Norton",
+      "email": "edward@example.com",
+      "avatar": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Edward",
+      "bio": "Data scientist and machine learning expert",
+      "joinedAt": "2023-07-21"
+    },
+    {
+      "id": "8",
+      "name": "Fiona Gallagher",
+      "email": "fiona@example.com",
+      "avatar": "https://via.placeholder.com/150/33FF57/000000?text=Fiona",
+      "bio": "AI researcher and tech speaker",
+      "joinedAt": "2023-08-03"
+    },
+    {
+      "id": "9",
+      "name": "George Martin",
+      "email": "george@example.com",
+      "avatar": "https://via.placeholder.com/150/FF5733/FFFFFF?text=George",
+      "bio": "Blockchain developer and crypto enthusiast",
+      "joinedAt": "2023-07-15"
+    },
+    {
+      "id": "10",
+      "name": "Hannah Baker",
+      "email": "hannah@example.com",
+      "avatar": "https://via.placeholder.com/150/FFFF33/000000?text=Hannah",
+      "bio": "Freelance writer and content strategist",
+      "joinedAt": "2023-07-28"
+    },
+    {
+      "id": "c9a9",
+      "name": "cesar contreras",
+      "email": "cc@gmail.com",
+      "avatar": "https://via.placeholder.com/150/FFFF23/000000?text=Cesar",
+      "password": "12345"
+    },
+    {
+      "id": "dfcb",
+      "name": "jj",
+      "email": "j@mail.com",
+      "password": "123"
+    },
+    {
+      "id": "c2df",
+      "name": "ll",
+      "email": "l@mail.com",
+      "password": "123",
+      "avatar": "https://via.placeholder.com/150/759a4a/000000?text=L"
+    },
+    {
+      "id": "cc98",
+      "name": "Juan José",
+      "email": "juan@mail.com",
+      "password": "123456",
+      "avatar": "https://via.placeholder.com/150/f7109b/000000?text=JJ",
+      "passwoord": "$2a$10$45PaSz6ykot7oiO13RnxE.9YzQYAUeRTW4UHJftpi/Lf3z4m19AWG"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "10xLaunch",
+      "slogan": "Get more users from same website traffic",
+      "description": "Just add our one-line script to your website and know exactly who's visiting your website – get names, emails, and LinkedIn profiles of your anonymous website visitors automatically as soon as they land on your website.",
+      "image": "https://via.placeholder.com/300?text=10xLaunch",
+      "authorId": "1",
+      "categories": [
+        "Sales",
+        "Artificial Intelligence",
+        "Growth Hacks"
+      ],
+      "createdAt": "2024-08-26",
+      "reviews": [
+        {
+          "id": "1",
+          "userId": "2",
+          "rating": 5,
+          "comment": "Amazing tool for growing user base!"
+        },
+        {
+          "id": "2",
+          "userId": "3",
+          "rating": 4,
+          "comment": "Impressive results, but a bit pricey."
+        },
+        {
+          "id": "1726851415976",
+          "userId": "c9a9",
+          "comment": "Amazing!"
+        },
+        {
+          "id": "1727468029321",
+          "userId": "c9a9",
+          "comment": "adsdd"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Super Cool App",
+      "slogan": "Stay cool, stay smart",
+      "description": "An app that helps you stay cool by monitoring your environment and suggesting activities.",
+      "image": "https://via.placeholder.com/300?text=Cool+App",
+      "authorId": "1",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "createdAt": "2024-08-20",
+      "reviews": [
+        {
+          "id": "3",
+          "userId": "2",
+          "rating": 4,
+          "comment": "This app really helps me stay cool during summer!"
+        },
+        {
+          "id": "4",
+          "userId": "3",
+          "rating": 5,
+          "comment": "Amazing concept, and it works flawlessly."
+        },
+        {
+          "id": "1726857836647",
+          "userId": "cc98",
+          "comment": "muy buena!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Task Tracker Pro",
+      "slogan": "Stay on top of your tasks",
+      "description": "A powerful task management app that integrates with your favorite tools.",
+      "image": "https://via.placeholder.com/300?text=Task+Tracker",
+      "authorId": "2",
+      "categories": [
+        "Productivity"
+      ],
+      "createdAt": "2024-08-21",
+      "reviews": [
+        {
+          "id": "5",
+          "userId": "1",
+          "rating": 5,
+          "comment": "The best task management app I've used!"
+        },
+        {
+          "id": "6",
+          "userId": "4",
+          "rating": 3,
+          "comment": "Good features but the UI could be better."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Healthy Eats",
+      "slogan": "Eat healthy, live better",
+      "description": "Find healthy recipes and track your daily intake with ease.",
+      "image": "https://via.placeholder.com/300?text=Healthy+Eats",
+      "authorId": "3",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "createdAt": "2024-08-19",
+      "reviews": [
+        {
+          "id": "7",
+          "userId": "1",
+          "rating": 4,
+          "comment": "Great for meal planning!"
+        },
+        {
+          "id": "8",
+          "userId": "5",
+          "rating": 5,
+          "comment": "My go-to app for healthy eating."
+        },
+        {
+          "id": "9",
+          "userId": "6",
+          "rating": 3,
+          "comment": "Good content but needs more recipes."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Crypto Portfolio",
+      "slogan": "Manage your crypto with ease",
+      "description": "Manage your cryptocurrency investments all in one place.",
+      "image": "https://via.placeholder.com/300?text=Crypto+Portfolio",
+      "authorId": "4",
+      "categories": [
+        "Finance"
+      ],
+      "createdAt": "2024-08-18",
+      "reviews": [
+        {
+          "id": "10",
+          "userId": "7",
+          "rating": 5,
+          "comment": "A must-have for crypto investors."
+        },
+        {
+          "id": "11",
+          "userId": "8",
+          "rating": 4,
+          "comment": "Excellent tracking and insights."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Travel Buddy",
+      "slogan": "Plan your perfect trip",
+      "description": "Plan your trips and explore new destinations with ease.",
+      "image": "https://via.placeholder.com/300?text=Travel+Buddy",
+      "authorId": "5",
+      "categories": [
+        "Travel"
+      ],
+      "createdAt": "2024-08-17",
+      "reviews": [
+        {
+          "id": "12",
+          "userId": "9",
+          "rating": 5,
+          "comment": "Helped me plan my best trip yet!"
+        },
+        {
+          "id": "13",
+          "userId": "10",
+          "rating": 4,
+          "comment": "Great app but could use more features."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Home Workout",
+      "slogan": "Get fit without leaving home",
+      "description": "A comprehensive workout app for home fitness routines.",
+      "image": "https://via.placeholder.com/300?text=Home+Workout",
+      "authorId": "6",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "createdAt": "2024-08-16",
+      "reviews": [
+        {
+          "id": "14",
+          "userId": "7",
+          "rating": 5,
+          "comment": "Perfect for staying fit at home."
+        },
+        {
+          "id": "15",
+          "userId": "8",
+          "rating": 4,
+          "comment": "Good variety of workouts, but needs more advanced routines."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Mindful Meditation",
+      "slogan": "Find your inner peace",
+      "description": "Guided meditation sessions to help you relax and focus.",
+      "image": "https://via.placeholder.com/300?text=Mindful+Meditation",
+      "authorId": "7",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "createdAt": "2024-08-15",
+      "reviews": [
+        {
+          "id": "16",
+          "userId": "6",
+          "rating": 4,
+          "comment": "Great for daily meditation practice."
+        },
+        {
+          "id": "17",
+          "userId": "9",
+          "rating": 5,
+          "comment": "Helps me stay focused and calm."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "FitTrack",
+      "slogan": "Track your fitness journey",
+      "description": "A fitness tracking app that integrates with all your devices.",
+      "image": "https://via.placeholder.com/300?text=FitTrack",
+      "authorId": "8",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "createdAt": "2024-08-14",
+      "reviews": [
+        {
+          "id": "18",
+          "userId": "10",
+          "rating": 4,
+          "comment": "Helps me stay on track with my fitness goals."
+        },
+        {
+          "id": "19",
+          "userId": "5",
+          "rating": 5,
+          "comment": "Best fitness tracking app I've used!"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "CodeMaster",
+      "slogan": "Learn to code interactively",
+      "description": "Learn to code with interactive tutorials.",
+      "image": "https://via.placeholder.com/300?text=CodeMaster",
+      "authorId": "9",
+      "categories": [
+        "Education"
+      ],
+      "createdAt": "2024-08-13",
+      "reviews": [
+        {
+          "id": "20",
+          "userId": "8",
+          "rating": 5,
+          "comment": "Best app for learning to code!"
+        },
+        {
+          "id": "21",
+          "userId": "9",
+          "rating": 4,
+          "comment": "Great for beginners, a bit basic for advanced users."
+        }
+      ]
+    },
+    {
+      "id": "bdf0",
+      "title": "Creem",
+      "slogan": "Smooth payments for SaaS",
+      "description": "Creem provides SaaS companies with an easy and robust payment solution, with a focus on fair pricing. We charge 0% in fees up to 1000 EUR AND...we are are extending that with an additional 500 EUR for Product Hunt users in the next 24 hours after launch 👀",
+      "image": "..",
+      "categories": [
+        "Fintech",
+        "Payments"
+      ],
+      "createdAt": "2024-09-17T15:51:58.962Z",
+      "reviews": []
+    },
+    {
+      "id": "c987",
+      "title": "wewe",
+      "slogan": "ewewe",
+      "description": "weewewe",
+      "image": "qwewew",
+      "categories": [
+        "wewe"
+      ],
+      "createdAt": "2024-09-27T20:14:32.953Z",
+      "reviews": [
+        {
+          "id": "1727468089877",
+          "userId": "c9a9",
+          "comment": "sdsdsd"
+        }
+      ]
+    }
+  ]
+}
